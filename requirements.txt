@@ -2,7 +2,6 @@ tensorflow
 pandas
 scikit-learn
 tensorboard
-matplotli
+matplotlib
 streamlit
 imbalanced-learn
-scikeras
